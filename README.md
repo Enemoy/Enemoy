@@ -1,6 +1,6 @@
 Hi I am Enemoy
 
-I study philosophy in Germany and am a big (Arch) Linux and i3 enthusiast. 
+I study philosophy in Germany and am a big (Arch) Linux enthusiast. 
 
 I code mainly in bash and python and write scripts to speed up my workflow in e.g. writing documents with LaTeX.
 
